@@ -4,7 +4,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_ennemies",
+    "path": "objects/obj_ennemies/obj_ennemies.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "ennemies",
-    "path": "folders/Objects/game/ennemies.yy",
+    "name": "green",
+    "path": "folders/Objects/game/ennemies/green.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_small_blob",
