@@ -21,8 +21,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "menu",
-    "path": "folders/Objects/menu.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "OBJ_btn_score",
