@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_btn_jouer",
-    "path": "sprites/spr_btn_jouer/spr_btn_jouer.yy",
+    "name": "spr_btn_retour",
+    "path": "sprites/spr_btn_retour/spr_btn_retour.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects/menus.yy",
   },
   "resourceVersion": "1.0",
-  "name": "OBJ_btn_jouer",
+  "name": "OBJ_retour",
   "tags": [],
   "resourceType": "GMObject",
 }

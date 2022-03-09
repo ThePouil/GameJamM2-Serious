@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_btn_jouer",
-    "path": "sprites/spr_btn_jouer/spr_btn_jouer.yy",
+    "name": "spr_highscore",
+    "path": "sprites/spr_highscore/spr_highscore.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects/menus.yy",
   },
   "resourceVersion": "1.0",
-  "name": "OBJ_btn_jouer",
+  "name": "OBJ_draw_highscore",
   "tags": [],
   "resourceType": "GMObject",
 }
