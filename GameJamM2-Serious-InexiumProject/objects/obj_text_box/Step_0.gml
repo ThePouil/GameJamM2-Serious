@@ -1,4 +1,4 @@
-if(keyboard_check(vk_anykey) and string_length(text) < 20){
+if(keyboard_check(vk_anykey) and string_length(text) < 30){
 	text = text+string(keyboard_string);
 	keyboard_string="";
 }
