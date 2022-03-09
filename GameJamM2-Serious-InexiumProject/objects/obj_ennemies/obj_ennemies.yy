@@ -22,7 +22,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "ennemies",
-    "path": "folders/Objects/game/ennemies.yy",
+    "path": "folders/Objects/ennemies.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_ennemies",

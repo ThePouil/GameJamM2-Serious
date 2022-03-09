@@ -28,7 +28,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "green",
-    "path": "folders/Objects/game/ennemies/green.yy",
+    "path": "folders/Objects/ennemies/green.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_small_blob",

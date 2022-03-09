@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "spr_medium_blob",
-    "path": "sprites/spr_medium_blob/spr_medium_blob.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_ennemies",
-    "path": "objects/obj_ennemies/obj_ennemies.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,15 +17,18 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "red",
-    "path": "folders/Objects/ennemies/red.yy",
+    "name": "spawner",
+    "path": "folders/Objects/spawner.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_medium_blob",
+  "name": "obj_spawner",
   "tags": [],
   "resourceType": "GMObject",
 }
