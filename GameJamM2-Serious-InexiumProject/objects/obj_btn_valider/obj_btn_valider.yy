@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_text",
-    "path": "sprites/spr_text/spr_text.yy",
+    "name": "spr_btn_envoyer",
+    "path": "sprites/spr_btn_envoyer/spr_btn_envoyer.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -28,7 +30,7 @@
     "path": "folders/Objects/abstract.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_text",
+  "name": "obj_btn_valider",
   "tags": [],
   "resourceType": "GMObject",
 }
