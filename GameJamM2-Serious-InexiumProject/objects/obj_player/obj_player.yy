@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "spr_big_blob",
-    "path": "sprites/spr_big_blob/spr_big_blob.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_ennemies",
-    "path": "objects/obj_ennemies/obj_ennemies.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "red",
-    "path": "folders/Objects/game/ennemies/red.yy",
+    "name": "game",
+    "path": "folders/Objects/game.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_big_blob",
+  "name": "obj_player",
   "tags": [],
   "resourceType": "GMObject",
 }

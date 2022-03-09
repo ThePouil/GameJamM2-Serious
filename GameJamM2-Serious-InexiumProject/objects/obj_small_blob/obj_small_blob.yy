@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_small_blob",
+    "path": "sprites/spr_small_blob/spr_small_blob.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

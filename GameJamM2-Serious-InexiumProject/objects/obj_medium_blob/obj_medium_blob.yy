@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_medium_blob",
+    "path": "sprites/spr_medium_blob/spr_medium_blob.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
