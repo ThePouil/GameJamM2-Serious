@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_btn_jouer","path":"sprites/spr_btn_jouer/spr_btn_jouer.yy",},"order":3,},
     {"id":{"name":"spr_btn_quitter","path":"sprites/spr_btn_quitter/spr_btn_quitter.yy",},"order":5,},
+    {"id":{"name":"spr_text_box","path":"sprites/spr_text_box/spr_text_box.yy",},"order":6,},
     {"id":{"name":"spr_tear","path":"sprites/spr_tear/spr_tear.yy",},"order":1,},
     {"id":{"name":"spr_room","path":"sprites/spr_room/spr_room.yy",},"order":2,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
