@@ -72,6 +72,7 @@
     {"folderPath":"folders/Objects/abstract.yy","order":0,"resourceVersion":"1.0","name":"abstract","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/menu.yy","order":6,"resourceVersion":"1.0","name":"menu","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/menus.yy","order":1,"resourceVersion":"1.0","name":"menus","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/spawner.yy","order":2,"resourceVersion":"1.0","name":"spawner","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
