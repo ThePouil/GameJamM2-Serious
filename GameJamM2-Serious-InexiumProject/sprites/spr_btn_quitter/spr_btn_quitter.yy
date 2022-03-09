@@ -35,7 +35,7 @@
     "spriteId": {"name":"spr_btn_quitter","path":"sprites/spr_btn_quitter/spr_btn_quitter.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 0.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
