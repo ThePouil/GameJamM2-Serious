@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_btn_jouer",
+    "path": "sprites/spr_btn_jouer/spr_btn_jouer.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

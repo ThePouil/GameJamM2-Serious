@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_btn_options",
+    "path": "sprites/spr_btn_options/spr_btn_options.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

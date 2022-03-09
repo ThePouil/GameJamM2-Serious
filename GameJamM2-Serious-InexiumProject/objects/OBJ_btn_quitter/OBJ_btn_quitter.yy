@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_btn_quitter",
+    "path": "sprites/spr_btn_quitter/spr_btn_quitter.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
