@@ -4,6 +4,7 @@
     {"id":{"name":"spr_room","path":"sprites/spr_room/spr_room.yy",},"order":2,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"spr_char","path":"sprites/spr_char/spr_char.yy",},"order":0,},
+    {"id":{"name":"obj_main_menu","path":"objects/obj_main_menu/obj_main_menu.yy",},"order":0,},
     {"id":{"name":"Room_Level","path":"rooms/Room_Level/Room_Level.yy",},"order":1,},
     {"id":{"name":"Room_Title","path":"rooms/Room_Title/Room_Title.yy",},"order":0,},
   ],
@@ -39,6 +40,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/abstract.yy","order":1,"resourceVersion":"1.0","name":"abstract","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
