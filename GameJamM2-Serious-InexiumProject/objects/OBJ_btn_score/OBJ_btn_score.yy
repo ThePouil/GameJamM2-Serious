@@ -21,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "menus",
-    "path": "folders/Objects/menus.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_score",
+  "name": "OBJ_btn_score",
   "tags": [],
   "resourceType": "GMObject",
 }

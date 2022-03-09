@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_btn_quitter",
-    "path": "sprites/spr_btn_quitter/spr_btn_quitter.yy",
+    "name": "spr_btn_options",
+    "path": "sprites/spr_btn_options/spr_btn_options.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "menus",
-    "path": "folders/Objects/menus.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_quitter",
+  "name": "OBJ_btn_options",
   "tags": [],
   "resourceType": "GMObject",
 }

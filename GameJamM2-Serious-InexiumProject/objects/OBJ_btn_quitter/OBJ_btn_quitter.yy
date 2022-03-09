@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_btn_options",
-    "path": "sprites/spr_btn_options/spr_btn_options.yy",
+    "name": "spr_btn_quitter",
+    "path": "sprites/spr_btn_quitter/spr_btn_quitter.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,15 +20,18 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "menus",
-    "path": "folders/Objects/menus.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_options",
+  "name": "OBJ_btn_quitter",
   "tags": [],
   "resourceType": "GMObject",
 }
